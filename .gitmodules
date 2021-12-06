@@ -4,3 +4,6 @@
 [submodule "dottmux/plugins/tpm"]
 	path = dottmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "dottmux/plugins/tmux-sensible"]
+	path = dottmux/plugins/tmux-sensible
+	url = git@github.com:tmux-plugins/tmux-sensible.git
