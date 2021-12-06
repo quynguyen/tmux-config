@@ -1,5 +1,5 @@
 [submodule "dottmux/tmux-colors-solarized"]
-	path = dottmux/tmux-colors-solarized
+	path = dottmux/includes/tmux-colors-solarized
 	url = https://github.com/seebi/tmux-colors-solarized.git
 [submodule "dottmux/plugins/tpm"]
 	path = dottmux/plugins/tpm
@@ -7,3 +7,6 @@
 [submodule "dottmux/plugins/tmux-sensible"]
 	path = dottmux/plugins/tmux-sensible
 	url = git@github.com:tmux-plugins/tmux-sensible.git
+[submodule "dottmux/includes/toggle-local-remote-bindings"]
+	path = dottmux/includes/toggle-local-remote-bindings
+	url = https://gist.github.com/samoshkin/05e65f7f1c9b55d3fc7690b59d678734
